@@ -20,3 +20,7 @@ Guías visuales en español para aprender tecnología haciendo. **Una guía, una
 3. **Comprueba** que obtuviste el resultado. Usa la documentación oficial si necesitas más detalle.
 
 Las imágenes son **maquetas didácticas**, no capturas exactas de GitHub. No necesitas publicar datos reales para practicar.
+
+## Sigue practicando
+
+¿Ya tienes tu repositorio de práctica? Explora el [portafolio académico](https://github.com/jokxer8/soluciones-programacion-academica) para ver ejemplos de cómo se documentan ejercicios, proyectos y resultados. También puedes volver al [perfil de Jokxer8](https://github.com/jokxer8#guías-visuales-en-palabras-simples).
