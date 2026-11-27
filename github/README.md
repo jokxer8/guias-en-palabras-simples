@@ -4,6 +4,8 @@
 
 **Objetivo:** usar GitHub para guardar un proyecto y organizar el trabajo sin depender de la terminal.
 
+Cada capítulo reúne temas cortos. Cada tema responde **¿Por qué?**, **¿Para qué?**, **¿Cómo?** y **¿Cuándo usarlo?**.
+
 | Guía | Qué harás | Estado |
 |---|---|---|
 | [01 · Repositorio y README](01-repositorio-y-readme.md) | Crear tu espacio de práctica y escribir su presentación. | Disponible |

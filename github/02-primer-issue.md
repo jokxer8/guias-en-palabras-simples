@@ -10,28 +10,23 @@ Un **issue** es una ficha para seguir una tarea, un error o una mejora. Si el re
 
 ![Maqueta de un issue abierto con el título Agregar un ejemplo al README, número 1 y criterio de cierre.](../assets/ejemplo-issue.svg)
 
-## ¿Por qué?
+## 1. Crear una ficha de trabajo (issue)
 
-Porque una tarea que queda solo en una conversación es fácil de olvidar o interpretar de otra manera.
+- **¿Por qué?** Una tarea que queda solo en una conversación es fácil de olvidar o interpretar de otra manera.
+- **¿Para qué?** Para dejar en un solo lugar qué falta y cómo sabrás que está listo.
+- **¿Cómo?** En tu repositorio de práctica, abre **Issues → New issue**. Si ves plantillas, elige una de tarea o el formulario en blanco. Usa el título **Agregar un ejemplo al README** y escribe: «El README no muestra un ejemplo. Está listo cuando incluya un ejemplo y explique cómo usarlo». Pulsa **Create** o el botón de envío.
+- **¿Cuándo usarlo?** Cuando descubras un error, quieras proponer una mejora o necesites anotar una tarea que no resolverás ahora.
 
-## ¿Para qué?
+## 2. Decidir cuándo cerrar un issue
 
-Para dejar escrito qué falta y cómo sabrás que se terminó. También te permite retomar la tarea sin reconstruir toda la conversación.
-
-## ¿Cuándo usarlo?
-
-Cuando descubras un error, quieras proponer una mejora o necesites seguir una tarea que no vas a resolver ahora.
-
-## ¿Cómo?
-
-1. Abre **Issues → New issue**. Si te ofrecen plantillas, usa una de tarea o un formulario en blanco si está disponible.
-2. Pon este título: **Agregar un ejemplo al README**.
-3. Escribe qué falta y cómo sabrás que está listo: «El README no muestra un ejemplo. Está listo cuando incluya un ejemplo y explique cómo usarlo».
-4. Pulsa **Create** o el botón de envío que muestre el formulario. Vuelve a **Issues** y comprueba que la ficha aparece abierta con un número, como `#1`.
+- **¿Por qué?** Si cierras la ficha antes de tiempo, la tarea deja de aparecer entre las pendientes.
+- **¿Para qué?** Para que quede claro que se cumplió lo que pedía la ficha, y dónde se puede ver.
+- **¿Cómo?** Lee el criterio de la ficha. Cuando el ejemplo y las instrucciones estén en el README, añade un comentario que indique dónde quedaron y pulsa **Close issue**. En este ejercicio todavía no hay que cerrarlo.
+- **¿Cuándo usarlo?** Cierra el issue después de comprobar que el trabajo cumple su criterio. Si aún falta algo, déjalo abierto.
 
 ## Comprueba que funcionó
 
-Abre la ficha y revisa que otra persona pueda entender qué hacer sin preguntarte. Cuando el ejemplo esté guardado en el README, añade un comentario que indique dónde quedó y cierra el issue. Mientras no se haga, déjalo abierto.
+Vuelve a **Issues**. La ficha debe aparecer abierta, con un número como `#1`. Ábrela y revisa que otra persona pueda entender qué hacer y cómo comprobar que quedó listo.
 
 **¿No aparece Issues?** Revisa que la función esté habilitada en el repositorio de práctica. No abras tareas ficticias en repositorios de otras personas. En un repositorio público, tampoco pongas datos privados o secretos en la ficha.
 

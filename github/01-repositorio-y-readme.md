@@ -10,24 +10,19 @@ Un **repositorio** es el espacio de tu proyecto: guarda archivos y su historial.
 
 ![Maqueta del repositorio privado con README.md en la lista de archivos y su texto debajo.](../assets/ejemplo-repositorio.svg)
 
-## ¿Por qué?
+## 1. Crear un repositorio
 
-Para que los archivos de tu proyecto no queden dispersos y alguien que llegue por primera vez sepa de qué se trata.
+- **¿Por qué?** Si el trabajo queda repartido entre carpetas y correos, cuesta saber cuál es la versión actual.
+- **¿Para qué?** Para reunir los archivos de un proyecto y ver su historial en un solo lugar.
+- **¿Cómo?** Abre **+ → New repository**, nómbralo `mi-primer-proyecto`, confirma que tu cuenta sea la propietaria, elige **Private**, activa **Add README** y pulsa **Create repository**.
+- **¿Cuándo usarlo?** Al iniciar un trabajo que quieras ordenar y guardar por versiones, aunque todavía no tenga código.
 
-## ¿Para qué?
+## 2. Escribir el README
 
-Usa el repositorio para guardar el trabajo y el README para explicar qué contiene, cómo empezar y dónde buscar lo importante.
-
-## ¿Cuándo usarlo?
-
-Al iniciar un proyecto, incluso si todavía no tienes código. Actualiza el README cuando cambie lo que otra persona necesita saber para usarlo.
-
-## ¿Cómo?
-
-1. En GitHub, abre **+ → New repository**. Ponle `mi-primer-proyecto` y confirma que el propietario sea tu cuenta.
-2. Elige **Private** para practicar. Activa **Add README** y pulsa **Create repository**.
-3. En tu nuevo repositorio, abre `README.md` y pulsa el lápiz **Edit this file**. Reemplaza el contenido con el ejemplo de abajo.
-4. Guarda con **Commit changes** y usa un mensaje claro, como `Explicar el propósito del proyecto`. Guarda en la rama actual de tu repositorio de práctica si GitHub te pide elegir.
+- **¿Por qué?** Quien entra al proyecto por primera vez no conoce tus archivos ni sabe por dónde empezar.
+- **¿Para qué?** Para explicar qué es el proyecto y qué se puede encontrar o hacer en él.
+- **¿Cómo?** Abre `README.md`, pulsa el lápiz **Edit this file**, copia el ejemplo de abajo y guarda con **Commit changes**. Usa un mensaje claro como `Explicar el propósito del proyecto`. En tu repositorio privado de práctica puedes guardar en la rama actual si GitHub lo permite.
+- **¿Cuándo usarlo?** Escríbelo al crear el proyecto y actualízalo si cambian los pasos de uso o el contenido que ofreces.
 
 ```markdown
 # Mi primer proyecto

@@ -16,7 +16,7 @@ Guías visuales en español para aprender tecnología haciendo. **Una guía, una
 
 ## Cómo usar estas guías
 
-Cada guía responde **¿Por qué?**, **¿Para qué?**, **¿Cómo?** y **¿Cuándo usarlo?**, con un ejemplo y una forma de comprobar el resultado.
+En cada capítulo, cada tema responde **¿Por qué?**, **¿Para qué?**, **¿Cómo?** y **¿Cuándo usarlo?**, con un ejemplo y una forma de comprobar el resultado.
 
 1. **Lee** para entender qué harás y por qué.
 2. **Practica** en un repositorio propio con datos de ejemplo.

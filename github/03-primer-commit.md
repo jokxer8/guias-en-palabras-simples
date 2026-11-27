@@ -8,24 +8,14 @@
 
 Un **commit** es un punto guardado en el historial del proyecto. Lleva un mensaje que cuenta qué cambió. Es como guardar una versión de tu trabajo con una etiqueta que luego puedes reconocer.
 
-## ¿Por qué?
-
-Porque en unas semanas quizá no recuerdes qué cambiaste. Un mensaje como «Agregar lista de estudio» te da una pista mucho más útil que «Cambios».
-
-## ¿Para qué?
-
-Para ver el cambio concreto sin adivinar: al abrir el commit de este ejercicio, verás cuándo se añadió `ejemplo.md` y qué líneas incluía.
-
-## ¿Cuándo usarlo?
-
-Cuando termines un cambio con sentido propio: añadir un ejemplo, corregir una instrucción o arreglar un error. No necesitas guardar un commit por cada tecla ni esperar a terminar todo el proyecto.
-
-## ¿Cómo?
-
 ![Maqueta de tres pasos: crear ejemplo.md, guardarlo con el mensaje Agregar lista de estudio y encontrar ese mensaje en History.](../assets/ejemplo-commit.svg)
 
-1. En tu repositorio de práctica, entra a **Code → Add file → Create new file**. En el nombre escribe `ejemplo.md`.
-2. Copia esta lista y usa **Preview** para ver cómo se muestra antes de guardarla:
+## 1. Crear y previsualizar el archivo
+
+- **¿Por qué?** Ver cómo quedará el texto antes de guardarlo ayuda a detectar una lista mal escrita.
+- **¿Para qué?** Para preparar una lista de estudio en un archivo de ejemplo sin tocar el README.
+- **¿Cómo?** En **Code → Add file → Create new file**, nombra el archivo `ejemplo.md`. Copia la lista de abajo y pulsa **Preview** para ver las casillas.
+- **¿Cuándo usarlo?** Cuando agregues una nota o un ejemplo en Markdown y quieras revisar cómo se leerá.
 
 ```markdown
 # Lista de estudio
@@ -34,8 +24,19 @@ Cuando termines un cambio con sentido propio: añadir un ejemplo, corregir una i
 - [ ] Repasar GitHub
 ```
 
-3. Pulsa **Commit changes…** y escribe `Agregar lista de estudio` como mensaje. Para este ejercicio individual, elige guardar directamente en la rama que estás usando (normalmente `main`), si tu repositorio de práctica lo permite. Confirma con **Commit changes**. En un proyecto compartido, usa una rama aparte y sigue sus reglas de revisión.
-4. Abre `ejemplo.md` y pulsa **History** (historial). Busca tu mensaje y ábrelo: debes ver el archivo añadido y sus líneas nuevas.
+## 2. Guardar el cambio (commit)
+
+- **¿Por qué?** Un mensaje como «Agregar lista de estudio» se reconoce mejor que «Cambios» semanas después.
+- **¿Para qué?** Para dejar en el historial un registro de qué se añadió y cuándo.
+- **¿Cómo?** Pulsa **Commit changes…** y escribe `Agregar lista de estudio`. En tu repositorio privado de práctica, elige guardar en la rama actual (normalmente `main`) si GitHub lo permite. Confirma con **Commit changes**. En un proyecto compartido, sigue sus reglas de revisión.
+- **¿Cuándo usarlo?** Al terminar un cambio con sentido propio, como añadir un ejemplo o corregir una instrucción.
+
+## 3. Consultar el historial del archivo
+
+- **¿Por qué?** Ver el archivo actual no siempre te dice en qué cambio apareció cada parte.
+- **¿Para qué?** Para identificar qué commit añadió el archivo y comprobar las líneas guardadas.
+- **¿Cómo?** Abre `ejemplo.md`, pulsa **History**, busca **Agregar lista de estudio** y abre el commit para ver el archivo y sus líneas nuevas.
+- **¿Cuándo usarlo?** Después de guardar un cambio para comprobarlo, o más adelante cuando necesites saber qué se modificó.
 
 ## Comprueba que funcionó
 
