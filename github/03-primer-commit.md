@@ -1,6 +1,6 @@
 # 03 · Tu primer commit, sin usar la terminal
 
-[← Índice](README.md) · [Anterior: tu primer issue](02-primer-issue.md)
+[← Índice](README.md) · [Anterior: tu primer issue](02-primer-issue.md) · [Siguiente: ramas y pull requests →](04-ramas-y-pull-requests.md)
 
 **Meta:** crear `ejemplo.md` y encontrar el cambio guardado en el historial. **Tiempo estimado:** 5 minutos. Usa tu repositorio privado `mi-primer-proyecto`.
 
