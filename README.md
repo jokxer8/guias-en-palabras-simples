@@ -10,10 +10,13 @@ Guías visuales en español para aprender tecnología haciendo. **Una guía, una
 
 - **[01 · Crea tu repositorio con un README](github/01-repositorio-y-readme.md)**: dale un lugar a tu proyecto y explica qué contiene.
 - **[02 · Crea tu primer issue](github/02-primer-issue.md)**: registra una mejora concreta para ese mismo proyecto.
+- **[03 · Tu primer commit](github/03-primer-commit.md)**: crea un archivo, guarda el cambio y encuéntralo en el historial.
 
 ![Ruta de práctica: crea el repositorio, registra una tarea y comprueba el resultado cuando esté hecho.](assets/ruta-de-practica.svg)
 
 ## Cómo usar estas guías
+
+Cada guía responde **¿Por qué?**, **¿Para qué?**, **¿Cómo?** y **¿Cuándo usarlo?**, con un ejemplo y una forma de comprobar el resultado.
 
 1. **Lee** para entender qué harás y por qué.
 2. **Practica** en un repositorio propio con datos de ejemplo.

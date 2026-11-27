@@ -10,7 +10,19 @@ Un **repositorio** es el espacio de tu proyecto: guarda archivos y su historial.
 
 ![Maqueta del repositorio privado con README.md en la lista de archivos y su texto debajo.](../assets/ejemplo-repositorio.svg)
 
-## Hazlo en el navegador
+## ¿Por qué?
+
+Para que los archivos de tu proyecto no queden dispersos y alguien que llegue por primera vez sepa de qué se trata.
+
+## ¿Para qué?
+
+Usa el repositorio para guardar el trabajo y el README para explicar qué contiene, cómo empezar y dónde buscar lo importante.
+
+## ¿Cuándo usarlo?
+
+Al iniciar un proyecto, incluso si todavía no tienes código. Actualiza el README cuando cambie lo que otra persona necesita saber para usarlo.
+
+## ¿Cómo?
 
 1. En GitHub, abre **+ → New repository**. Ponle `mi-primer-proyecto` y confirma que el propietario sea tu cuenta.
 2. Elige **Private** para practicar. Activa **Add README** y pulsa **Create repository**.

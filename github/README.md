@@ -8,8 +8,8 @@
 |---|---|---|
 | [01 · Repositorio y README](01-repositorio-y-readme.md) | Crear tu espacio de práctica y escribir su presentación. | Disponible |
 | [02 · Tu primer issue](02-primer-issue.md) | Registrar una tarea y reconocer cuándo cerrarla. | Disponible |
-| Archivos y commits | Subir un archivo propio y reconocer qué cambió. | Próximamente |
-| Ramas y pull requests | Proponer un cambio y revisarlo antes de incorporarlo. | Próximamente |
+| [03 · Tu primer commit](03-primer-commit.md) | Crear un archivo, guardar el cambio y comprobarlo en el historial. | Disponible |
+| 04 · Ramas y pull requests | Proponer un cambio y revisarlo antes de incorporarlo. | Próximamente |
 | Projects | Organizar tareas en un tablero sin copiarlas. | Próximamente |
 | Releases y Packages | Distinguir una versión anunciada de un paquete que puedes instalar. | Próximamente |
 

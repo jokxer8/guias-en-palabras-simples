@@ -1,6 +1,6 @@
 # 02 · Crea tu primer issue
 
-[← Índice](README.md) · [Anterior: crea tu repositorio](01-repositorio-y-readme.md)
+[← Índice](README.md) · [Anterior: crea tu repositorio](01-repositorio-y-readme.md) · [Siguiente: tu primer commit →](03-primer-commit.md)
 
 **Meta:** registrar una mejora para tu propio proyecto y saber cuándo cerrarla. **Tiempo estimado:** 5 minutos.
 
@@ -10,7 +10,19 @@ Un **issue** es una ficha para seguir una tarea, un error o una mejora. Si el re
 
 ![Maqueta de un issue abierto con el título Agregar un ejemplo al README, número 1 y criterio de cierre.](../assets/ejemplo-issue.svg)
 
-## Hazlo en tu repositorio de práctica
+## ¿Por qué?
+
+Porque una tarea que queda solo en una conversación es fácil de olvidar o interpretar de otra manera.
+
+## ¿Para qué?
+
+Para dejar escrito qué falta y cómo sabrás que se terminó. También te permite retomar la tarea sin reconstruir toda la conversación.
+
+## ¿Cuándo usarlo?
+
+Cuando descubras un error, quieras proponer una mejora o necesites seguir una tarea que no vas a resolver ahora.
+
+## ¿Cómo?
 
 1. Abre **Issues → New issue**. Si te ofrecen plantillas, usa una de tarea o un formulario en blanco si está disponible.
 2. Pon este título: **Agregar un ejemplo al README**.

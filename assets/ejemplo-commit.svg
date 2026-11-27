@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 500" role="img" aria-labelledby="t d">
+<title id="t">Tu primer commit en tres pasos</title>
+<desc id="d">Crea ejemplo.md, guarda un commit titulado Agregar lista de estudio y verifica en el historial del archivo que ese mensaje aparece.</desc>
+<rect width="660" height="500" rx="25" fill="#10243a"/>
+<g font-family="system-ui, Segoe UI, sans-serif">
+<text x="24" y="38" font-weight="700" font-size="19" fill="#a9efdb">GITHUB DESDE CERO · GUÍA 03 · MAQUETA</text>
+<text x="24" y="82" font-weight="750" font-size="34" fill="#fff8eb">Tu primer commit</text>
+<g transform="translate(24 102)">
+<rect width="612" height="118" rx="16" fill="#fff8eb"/>
+<rect x="17" y="29" width="76" height="63" rx="14" fill="#d2f3e8"/>
+<path transform="translate(18 32)" d="M22 7h22l12 12v33H22z M44 7v12h12 M31 34h17 M31 42h17" fill="none" stroke="#105247" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="109" y="37" font-weight="750" font-size="26" fill="#10243a">Crear el archivo</text>
+<text x="110" y="65" font-weight="650" font-size="21" fill="#105247">Add file → Create new file</text>
+<text x="110" y="92" font-size="21" fill="#29465a">ejemplo.md</text>
+<text x="552" y="42" font-weight="750" font-size="26" fill="#105247">01</text>
+</g>
+<g transform="translate(24 228)">
+<rect width="612" height="118" rx="16" fill="#fff8eb"/>
+<rect x="17" y="29" width="76" height="63" rx="14" fill="#d2f3e8"/>
+<path transform="translate(18 32)" d="M20 8h36v42H20z M27 16h22v11H27z M29 50V36h18v14" fill="none" stroke="#105247" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="109" y="37" font-weight="750" font-size="26" fill="#10243a">Guardar el cambio</text>
+<text x="110" y="65" font-weight="650" font-size="21" fill="#105247">Commit changes</text>
+<text x="110" y="92" font-size="21" fill="#29465a">Agregar lista de estudio</text>
+<text x="552" y="42" font-weight="750" font-size="26" fill="#105247">02</text>
+</g>
+<g transform="translate(24 354)">
+<rect width="612" height="118" rx="16" fill="#fff8eb"/>
+<rect x="17" y="29" width="76" height="63" rx="14" fill="#d2f3e8"/>
+<path transform="translate(18 32)" d="M25 14a18 18 0 1 1-4 21 M18 9v13h13 M39 21v10l8 5" fill="none" stroke="#105247" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="109" y="37" font-weight="750" font-size="26" fill="#10243a">Verificar en el historial</text>
+<text x="110" y="65" font-weight="650" font-size="21" fill="#105247">History</text>
+<text x="110" y="92" font-size="21" fill="#29465a">Agregar lista de estudio</text>
+<text x="552" y="42" font-weight="750" font-size="26" fill="#105247">03</text>
+</g>
+</g></svg>
