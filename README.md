@@ -6,7 +6,7 @@ Guías visuales en español para aprender tecnología haciendo. **Una guía, una
 
 ## Empieza por aquí
 
-**[GitHub desde cero → ver el índice](github/README.md)**
+**[GitHub desde cero → ver el índice](github/README.md)** · [Plan Maestro: alcance y próximas guías](PLAN-MAESTRO.md)
 
 - **[01 · Crea tu repositorio con un README](github/01-repositorio-y-readme.md)**: dale un lugar a tu proyecto y explica qué contiene.
 - **[02 · Crea tu primer issue](github/02-primer-issue.md)**: registra una mejora concreta para ese mismo proyecto.
